@@ -1,10 +1,10 @@
-# List of Codes
+# List of problems
 
 ### **Array**
 1. Reverse the array ([C code](https://github.com/scodebox/cp/blob/main/array/1_min_max_of_array.c))
 2. Find the maximum and minimum element in an array ([C code](https://github.com/scodebox/cp/blob/main/array/2_reverse_of_array.c))
 3. Find the "Kth" max and min element of an array ([C code](https://github.com/scodebox/cp/blob/main/array/3_kth_min_max.c))
-4. Given an array which consists of only 0, 1 and 2. Sort the array without using any sorting algo
+4. Given an array which consists of only 0, 1 & 2. Sort the array without using any sorting algorithm ([C code](https://github.com/scodebox/cp/blob/main/array/4_sort_012.c))
 5. Move all the negative elements to one side of the array 
 6. Find the Union and Intersection of the two sorted arrays
 7. Write a program to cyclically rotate an array by one.
