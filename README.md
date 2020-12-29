@@ -8,7 +8,7 @@
 5. Move all the negative elements to one side of the array [TC: O(n) | SC: O(1)] ([C code](https://github.com/scodebox/cp/blob/main/array/5_move_all_negative_elements.c))
 6. Find the Union and Intersection of the two sorted arrays [TC: O(m+n) | SC: O(min(m,n)) and O(m+n)] ([C code](https://github.com/scodebox/cp/blob/main/array/6_union_intersection.c))
 7. Write a program to cyclically rotate an array by one [O(n)] ([C code](https://github.com/scodebox/cp/blob/main/array/7_rotate.c))
-8. Find Largest sum contiguous sub-array [TC: O(n) | SC: O(1)] ([C code](https://github.com/scodebox/cp/blob/main/array/7_rotate.c))
+8. Find Largest sum contiguous sub-array [TC: O(n) | SC: O(1)] ([C code](https://github.com/scodebox/cp/blob/main/array/8_max_sum_contiguous_sub_array.c))
 9. Minimise the maximum difference between heights
 10. Minimum no. of Jumps to reach end of an array
 11. Find duplicate in an array of N+1 Integers
