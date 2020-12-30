@@ -6,35 +6,35 @@ The repository of most used Data Structures and Algorithm in Competitive program
 
 ### **Array**
 1. Reverse the array 
-([C code](https://github.com/scodebox/cp/blob/main/array/1_min_max_of_array.c))
+([C code](https://github.com/scodebox/cp/blob/main/c/array/1_min_max_of_array.c))
 &nbsp;&nbsp;&nbsp;&#8594; _[O(n)]_
 
 2. Find the maximum and minimum element in an array 
-([C code](https://github.com/scodebox/cp/blob/main/array/2_reverse_of_array.c))
+([C code](https://github.com/scodebox/cp/blob/main/c/array/2_reverse_of_array.c))
 &nbsp;&nbsp;&nbsp;&#8594; _[O(n)]_
 
 3. Find the "Kth" max and min element of an array 
-([C code](https://github.com/scodebox/cp/blob/main/array/3_kth_min_max.c)) 
+([C code](https://github.com/scodebox/cp/blob/main/c/array/3_kth_min_max.c)) 
 &nbsp;&nbsp;&nbsp;&#8594; _[worst:O(n<sup>2</sup>) | avg:O(n)]_
 
 4. Given an array which consists of only 0, 1 & 2. Sort the array without using any sorting algorithm
-([C code](https://github.com/scodebox/cp/blob/main/array/4_sort_012.c))
+([C code](https://github.com/scodebox/cp/blob/main/c/array/4_sort_012.c))
 &nbsp;&nbsp;&nbsp;&#8594; _[TC: O(n) | SC: O(1)]_
 
 5. Move all the negative elements to one side of the array 
-([C code](https://github.com/scodebox/cp/blob/main/array/5_move_all_negative_elements.c))
+([C code](https://github.com/scodebox/cp/blob/main/array/c/5_move_all_negative_elements.c))
 &nbsp;&nbsp;&nbsp;&#8594; _[TC: O(n) | SC: O(1)]_
 
 6. Find the Union and Intersection of the two sorted arrays 
-([C code](https://github.com/scodebox/cp/blob/main/array/6_union_intersection.c)) 
+([C code](https://github.com/scodebox/cp/blob/main/array/c/6_union_intersection.c)) 
 &nbsp;&nbsp;&nbsp;&#8594; _[TC: O(m+n) | SC: O(min(m,n)) and O(m+n)]_
 
 7. Write a program to cyclically rotate an array by one 
-([C code](https://github.com/scodebox/cp/blob/main/array/7_rotate.c)) 
+([C code](https://github.com/scodebox/cp/blob/main/array/c/7_rotate.c)) 
 &nbsp;&nbsp;&nbsp;&#8594; _[O(n)]_
 
 8. Find Largest sum contiguous sub-array 
-([C code](https://github.com/scodebox/cp/blob/main/array/8_max_sum_contiguous_sub_array.c)) 
+([C code](https://github.com/scodebox/cp/blob/main/array/c/8_max_sum_contiguous_sub_array.c)) 
 &nbsp;&nbsp;&nbsp;&#8594; _[TC: O(n) | SC: O(1)]_
 
 9. Minimise the maximum difference between heights
