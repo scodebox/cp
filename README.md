@@ -1,9 +1,9 @@
 # Competitive Programming
-
+---
 The repository of most used Data Structures and Algorithm in Competitive programming / Coding contests / Coding Interview.
 
 ## List of problems
-
+---
 ### **Array**
 1. Reverse the array 
 ([C code](https://github.com/scodebox/cp/blob/main/c/array/1_min_max_of_array.c))
@@ -37,7 +37,9 @@ The repository of most used Data Structures and Algorithm in Competitive program
 ([C code](https://github.com/scodebox/cp/blob/main/array/c/8_max_sum_contiguous_sub_array.c)) 
 &nbsp;&nbsp;&nbsp;&#8594; _[TC: O(n) | SC: O(1)]_
 
-9. Minimise the maximum difference between heights
+9. Minimize the maximum difference between heights
+([C code](https://github.com/scodebox/cp/blob/main/array/c/9_minimize_maximum_difference.c)) 
+&nbsp;&nbsp;&nbsp;&#8594; _[TC: O(n log n) | SC: O(1)]_
 
 10. Minimum no. of Jumps to reach end of an array
 
