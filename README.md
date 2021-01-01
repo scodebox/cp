@@ -22,27 +22,27 @@ The repository of most used Data Structures and Algorithm in Competitive program
 &nbsp;&nbsp;&nbsp;&#8594; _[TC: O(n) | SC: O(1)]_
 
 5. Move all the negative elements to one side of the array 
-([C code](https://github.com/scodebox/cp/blob/main/array/c/5_move_all_negative_elements.c))
+([C code](https://github.com/scodebox/cp/blob/main/c/array/5_move_all_negative_elements.c))
 &nbsp;&nbsp;&nbsp;&#8594; _[TC: O(n) | SC: O(1)]_
 
 6. Find the Union and Intersection of the two sorted arrays 
-([C code](https://github.com/scodebox/cp/blob/main/array/c/6_union_intersection.c)) 
+([C code](https://github.com/scodebox/cp/blob/main/c/array/6_union_intersection.c)) 
 &nbsp;&nbsp;&nbsp;&#8594; _[TC: O(m+n) | SC: O(min(m,n)) and O(m+n)]_
 
 7. Write a program to cyclically rotate an array by one 
-([C code](https://github.com/scodebox/cp/blob/main/array/c/7_rotate.c)) 
+([C code](https://github.com/scodebox/cp/blob/main/c/array/7_rotate.c)) 
 &nbsp;&nbsp;&nbsp;&#8594; _[O(n)]_
 
 8. Find Largest sum contiguous sub-array 
-([C code](https://github.com/scodebox/cp/blob/main/array/c/8_max_sum_contiguous_sub_array.c)) 
+([C code](https://github.com/scodebox/cp/blob/main/c/array/8_max_sum_contiguous_sub_array.c)) 
 &nbsp;&nbsp;&nbsp;&#8594; _[TC: O(n) | SC: O(1)]_
 
 9. Minimize the maximum difference between heights
-([C code](https://github.com/scodebox/cp/blob/main/array/c/9_minimize_maximum_difference.c)) 
+([C code](https://github.com/scodebox/cp/blob/main/c/array/9_minimize_maximum_difference.c)) 
 &nbsp;&nbsp;&nbsp;&#8594; _[TC: O(n log n) | SC: O(1)]_
 
 10. Minimum number of Jumps to reach end of an array
-([C code](https://github.com/scodebox/cp/blob/main/array/c/10_minimum_num_of_jumps.c)) 
+([C code](https://github.com/scodebox/cp/blob/main/c/array/10_minimum_num_of_jumps.c)) 
 &nbsp;&nbsp;&nbsp;&#8594; _[TC: O(n) | SC: O(1)]_
 
 11. Find duplicate in an array of N+1 Integers
