@@ -1,10 +1,10 @@
 # Competitive Programming
----
 The repository of most used Data Structures and Algorithm in Competitive programming / Coding contests / Coding Interview.
 
 ## List of problems
----
+----
 ### **Array**
+----
 1. Reverse the array 
 ([C code](https://github.com/scodebox/cp/blob/main/c/array/1_min_max_of_array.c))
 &nbsp;&nbsp;&nbsp;&#8594; _[O(n)]_
@@ -41,7 +41,9 @@ The repository of most used Data Structures and Algorithm in Competitive program
 ([C code](https://github.com/scodebox/cp/blob/main/array/c/9_minimize_maximum_difference.c)) 
 &nbsp;&nbsp;&nbsp;&#8594; _[TC: O(n log n) | SC: O(1)]_
 
-10. Minimum no. of Jumps to reach end of an array
+10. Minimum number of Jumps to reach end of an array
+([C code](https://github.com/scodebox/cp/blob/main/array/c/10_minimum_num_of_jumps.c)) 
+&nbsp;&nbsp;&nbsp;&#8594; _[TC: O(n) | SC: O(1)]_
 
 11. Find duplicate in an array of N+1 Integers
 
