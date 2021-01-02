@@ -49,7 +49,9 @@ The repository of most used Data Structures and Algorithm in Competitive program
 ([C code](https://github.com/scodebox/cp/blob/main/c/array/11_find_duplicate.c)) 
 &nbsp;&nbsp;&nbsp;&#8594; _[TC: O(n) | SC: O(1)]_
 
-12. Merge 2 sorted arrays without using Extra space.
+12. Merge two sorted arrays without using extra space.
+([C code](https://github.com/scodebox/cp/blob/main/c/array/12_merge_without_extra_space.c)) 
+&nbsp;&nbsp;&nbsp;&#8594; _[TC: O(n log n) | SC: O(1)]_
 
 13. Kadane's Algo
 
