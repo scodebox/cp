@@ -53,7 +53,7 @@ The repository of most used Data Structures and Algorithm in Competitive program
 ([C code](https://github.com/scodebox/cp/blob/main/c/array/12_merge_without_extra_space.c)) 
 &nbsp;&nbsp;&nbsp;&#8594; _[TC: O(n log n) | SC: O(1)]_
 
-13. Kadane's Algorithm
+13. Kadane's Algorithm [VVIMP]
 ([C code](https://github.com/scodebox/cp/blob/main/c/array/13_kadanes_algorithm.c))
 &nbsp;&nbsp;&nbsp;&#8594; _[TC: O(n) | SC: O(1)]_
 
