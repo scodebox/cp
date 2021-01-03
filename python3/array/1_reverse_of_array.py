@@ -1,10 +1,8 @@
 def reverse(l, start, end):
     if start >= end:
         return
-    temp = l[start]
-    l[start] = l[end]
-    l[end] = temp
 
+    l[start], l[end] = l[end], l[start]
     reverse(l, start+1, end-1)
 
 
