@@ -6,11 +6,11 @@ The repository of most used Data Structures and Algorithm in Competitive program
 ### **Array**
 ----
 1. Reverse the array 
-([C code](https://github.com/scodebox/cp/blob/main/c/array/1_min_max_of_array.c))
+([C code](https://github.com/scodebox/cp/blob/main/c/array/1_reverse_of_array.c))
 &nbsp;&nbsp;&nbsp;&#8594; _[O(n)]_
 
 2. Find the maximum and minimum element in an array 
-([C code](https://github.com/scodebox/cp/blob/main/c/array/2_reverse_of_array.c))
+([C code](https://github.com/scodebox/cp/blob/main/c/array/2_min_max_of_array.c))
 &nbsp;&nbsp;&nbsp;&#8594; _[O(n)]_
 
 3. Find the "Kth" max and min element of an array 
