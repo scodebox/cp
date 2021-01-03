@@ -6,7 +6,10 @@ The repository of most used Data Structures and Algorithm in Competitive program
 ### **Array**
 ----
 1. Reverse the array 
-([C code](https://github.com/scodebox/cp/blob/main/c/array/1_reverse_of_array.c))
+(
+    [C code](https://github.com/scodebox/cp/blob/main/c/array/1_reverse_of_array.c) | 
+    [Python](https://github.com/scodebox/cp/blob/main/python3/array/1_reverse_of_array.py)
+)
 &nbsp;&nbsp;&nbsp;&#8594; _[O(n)]_
 
 2. Find the maximum and minimum element in an array 
