@@ -48,7 +48,10 @@ The repository of most used Data Structures and Algorithm in Competitive program
 &nbsp;&nbsp;&nbsp;&#8594; _[TC: O(m+n) | SC: O(min(m,n)) and O(m+n)]_
 
 7. Write a program to cyclically rotate an array by one 
-([C code](https://github.com/scodebox/cp/blob/main/c/array/7_rotate.c)) 
+(
+    [C code](https://github.com/scodebox/cp/blob/main/c/array/7_rotate.c) | 
+    [Python](https://github.com/scodebox/cp/blob/main/python3/array/7_rotate.py)
+) 
 &nbsp;&nbsp;&nbsp;&#8594; _[O(n)]_
 
 8. Find Largest sum contiguous sub-array [VIMP]
