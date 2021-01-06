@@ -27,7 +27,10 @@ The repository of most used Data Structures and Algorithm in Competitive program
 &nbsp;&nbsp;&nbsp;&#8594; _[worst:O(n<sup>2</sup>) | avg:O(n)]_
 
 4. Given an array which consists of only 0, 1 & 2. Sort the array without using any sorting algorithm
-([C code](https://github.com/scodebox/cp/blob/main/c/array/4_sort_012.c))
+(
+    [C code](https://github.com/scodebox/cp/blob/main/c/array/4_sort_012.c) |
+    [Python](https://github.com/scodebox/cp/blob/main/python3/array/4_sort_012.py)
+)
 &nbsp;&nbsp;&nbsp;&#8594; _[TC: O(n) | SC: O(1)]_
 
 5. Move all the negative elements to one side of the array 
