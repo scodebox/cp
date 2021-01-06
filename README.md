@@ -20,7 +20,10 @@ The repository of most used Data Structures and Algorithm in Competitive program
 &nbsp;&nbsp;&nbsp;&#8594; _[O(n)]_
 
 3. Find the "Kth" max and min element of an array 
-([C code](https://github.com/scodebox/cp/blob/main/c/array/3_kth_min_max.c)) 
+(
+    [C code](https://github.com/scodebox/cp/blob/main/c/array/3_kth_min_max.c) |
+    [Python](https://github.com/scodebox/cp/blob/main/python3/array/3_kth_min_max.py)
+) 
 &nbsp;&nbsp;&nbsp;&#8594; _[worst:O(n<sup>2</sup>) | avg:O(n)]_
 
 4. Given an array which consists of only 0, 1 & 2. Sort the array without using any sorting algorithm
