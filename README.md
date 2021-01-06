@@ -55,7 +55,10 @@ The repository of most used Data Structures and Algorithm in Competitive program
 &nbsp;&nbsp;&nbsp;&#8594; _[O(n)]_
 
 8. Find Largest sum contiguous sub-array [VIMP]
-([C code](https://github.com/scodebox/cp/blob/main/c/array/8_max_sum_contiguous_sub_array.c)) 
+(
+    [C code](https://github.com/scodebox/cp/blob/main/c/array/8_max_sum_contiguous_sub_array.c) | 
+    [Python](https://github.com/scodebox/cp/blob/main/python3/array/8_max_sum_contiguous_sub_array.py)
+) 
 &nbsp;&nbsp;&nbsp;&#8594; _[TC: O(n) | SC: O(1)]_
 
 9. Minimize the maximum difference between heights [VIMP]
