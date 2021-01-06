@@ -34,7 +34,10 @@ The repository of most used Data Structures and Algorithm in Competitive program
 &nbsp;&nbsp;&nbsp;&#8594; _[TC: O(n) | SC: O(1)]_
 
 5. Move all the negative elements to one side of the array 
-([C code](https://github.com/scodebox/cp/blob/main/c/array/5_move_all_negative_elements.c))
+(
+    [C code](https://github.com/scodebox/cp/blob/main/c/array/5_move_all_negative_elements.c) | 
+    [Python](https://github.com/scodebox/cp/blob/main/python3/array/5_move_all_negative_elements.py)
+)
 &nbsp;&nbsp;&nbsp;&#8594; _[TC: O(n) | SC: O(1)]_
 
 6. Find the Union and Intersection of the two sorted arrays 
