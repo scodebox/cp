@@ -21,7 +21,7 @@ int solution_1(int index, int *arr, int size)
         int temp_min = solution_1(index + step, arr, size);
         if (temp_min == -1)
             continue;
-        // Take th minimum one.
+        // Take the minimum one.
         min_step = temp_min < min_step ? temp_min : min_step;
     }
     // If array element was zero | arr[index]==0.
