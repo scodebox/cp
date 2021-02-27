@@ -44,30 +44,29 @@ int main() {
     ios::sync_with_stdio(false);
     cin.tie(0);
     
-    int t;
-    cout<<"Enter the test case: "<<endl;
+        int t;
+        cout<<"Enter the test case: "<<endl;
 	cin>>t;
 	while(t--){
-
-	    int n;
-        cout<<"Enter the number: "<<endl;
+            int n;
+            cout<<"Enter the number: "<<endl;
 	    cin>>n;
 	    int arr[n];
 	    //print an array
-        cout << "Enter the element in the Array: "<<endl; 
-	        for0(i,n){
-	          cin>>arr[i];
-	        }
+            cout << "Enter the element in the Array: "<<endl; 
+	    for0(i,n){
+	       cin>>arr[i];
+	      }
 	    //Reverse an array 
 	    reverse(arr, arr + n); 
   
-        //Print the reversed array 
-        cout << "\nReversed Array: "<<endl;
-        //using the for loop
-        for0(i,n){
-        cout << arr[i] << " "; 
+            //Print the reversed array 
+            cout << "\nReversed Array: "<<endl;
+            //using the for loop
+            for0(i,n){
+            cout << arr[i] << " "; 
         }
     }
-	 return 0;
+return 0;
 }
 	
