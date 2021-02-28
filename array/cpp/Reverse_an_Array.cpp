@@ -46,20 +46,20 @@ int main() {
     
     int t;
     cout<<"Enter the test case: "<<endl;
-	cin>>t;
-	while(t--){
-
-	    int n;
+    cin>>t;
+    while(t--){
+	int n;
         cout<<"Enter the number: "<<endl;
-	    cin>>n;
-	    int arr[n];
-	    //print an array
+	cin>>n;
+	int arr[n];
+	 //print an array
         cout << "Enter the element in the Array: "<<endl; 
-	        for0(i,n){
-	          cin>>arr[i];
-	        }
-	    //Reverse an array 
-	    reverse(arr, arr + n); 
+	for0(i,n){
+	    cin>>arr[i];
+	   }
+	 
+	 //Reverse an array 
+	reverse(arr, arr + n); 
   
         //Print the reversed array 
         cout << "\nReversed Array: "<<endl;
@@ -68,6 +68,6 @@ int main() {
         cout << arr[i] << " "; 
         }
     }
-	 return 0;
+ return 0;
 }
 	
