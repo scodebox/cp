@@ -69,11 +69,17 @@ The repository of most used Data Structures and Algorithm in Competitive program
 &nbsp;&nbsp;&nbsp;&#8594; _[TC: O(n log n) | SC: O(1)]_
 
 10. Minimum number of Jumps to reach end of an array
-([C code](https://github.com/suvambasak/cp/blob/main/array/c/10_minimum_num_of_jumps.c)) 
+(
+    [C code](https://github.com/suvambasak/cp/blob/main/array/c/10_minimum_num_of_jumps.c) |
+    [Python](https://github.com/suvambasak/cp/blob/main/array/python3/10_minimum_num_of_jumps.py)
+) 
 &nbsp;&nbsp;&nbsp;&#8594; _[TC: O(n) | SC: O(1)]_
 
 11. Find duplicate in an array of N+1 Integers
-([C code](https://github.com/suvambasak/cp/blob/main/array/c/11_find_duplicate.c)) 
+(
+    [C code](https://github.com/suvambasak/cp/blob/main/array/c/11_find_duplicate.c) |
+    [Python](https://github.com/suvambasak/cp/blob/main/array/python3/11_find_duplicate.py)
+) 
 &nbsp;&nbsp;&nbsp;&#8594; _[TC: O(n) | SC: O(1)]_
 
 12. Merge two sorted arrays without using extra space.
