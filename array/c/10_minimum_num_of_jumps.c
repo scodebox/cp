@@ -10,7 +10,7 @@ int solution_1(int index, int *arr, int size)
     // exit condition.
     if (index >= size)
         return -1;
-    if (index == size - 1)
+    if (size - 1 == index)
         return 0;
 
     int min_step = INT_MAX;
@@ -19,13 +19,13 @@ int solution_1(int index, int *arr, int size)
     for (int step = 1; step <= arr[index]; step++)
     {
         int temp_min = solution_1(index + step, arr, size);
-        if (temp_min == -1)
+        if (-1 == temp_min)
             continue;
         // Take the minimum one.
         min_step = temp_min < min_step ? temp_min : min_step;
     }
     // If array element was zero | arr[index]==0.
-    if (min_step == INT_MAX)
+    if (INT_MAX == min_step)
         return -1;
     // return min + 1.
     return (min_step + 1);
@@ -55,7 +55,7 @@ int solution_2(int *arr, int size)
             }
         }
         // If arr[i] element is not reachable. so last element is not also reachable.
-        if (min_step[i] == 0)
+        if (0 == min_step[i])
             return -1;
     }
     // return the min step to reach last element.
@@ -84,7 +84,7 @@ int solution_3(int *arr, int size)
     for (int index = 1; index < size; index++)
     {
         // reached to the end return the jumps;
-        if (index == size - 1)
+        if (size - 1 == index)
             return jump;
 
         // decreasing the step by 1.| take a new step.
@@ -93,7 +93,7 @@ int solution_3(int *arr, int size)
         max_reachable_index = max_reachable_index < (index + arr[index]) ? (index + arr[index]) : max_reachable_index;
 
         // when step is 0 count it as a jump.
-        if (step == 0)
+        if (0 == step)
         {
             jump++;
             // The end is not rechable condition.
