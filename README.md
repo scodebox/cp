@@ -106,6 +106,10 @@ The repository of most used Data Structures and Algorithm in Competitive program
 15. Next Permutation
 
 16. Count Inversion
+(
+    [Python](https://github.com/suvambasak/cp/blob/main/array/python3/16_count_inversion.py)
+)
+&nbsp;&nbsp;&nbsp;&#8594; _[TC: O(n log n) | SC: O(n)]_
 
 17. Best time to buy and Sell stock
 
