@@ -9,6 +9,7 @@ The repository of most used Data Structures and Algorithm in Competitive program
 (
     [C code](https://github.com/suvambasak/cp/blob/main/array/c/1_reverse_of_array.c) | 
     [Python](https://github.com/suvambasak/cp/blob/main/array/python3/1_reverse_of_array.py)
+    [C++](https://github.com/suvambasak/cp/blob/main/array/cpp/Reverse_an_Array.cpp)
 )
 &nbsp;&nbsp;&nbsp;&#8594; _[O(n)]_
 
@@ -83,7 +84,10 @@ The repository of most used Data Structures and Algorithm in Competitive program
 &nbsp;&nbsp;&nbsp;&#8594; _[TC: O(n) | SC: O(1)]_
 
 12. Merge two sorted arrays without using extra space.
-([C code](https://github.com/suvambasak/cp/blob/main/array/c/12_merge_without_extra_space.c)) 
+(
+    [C code](https://github.com/suvambasak/cp/blob/main/array/c/12_merge_without_extra_space.c) |
+    [Python](https://github.com/suvambasak/cp/blob/main/array/python3/12_merge_without_extra_space.py)
+) 
 &nbsp;&nbsp;&nbsp;&#8594; _[TC: O(n log n) | SC: O(1)]_
 
 13. Kadane's Algorithm [VVIMP]

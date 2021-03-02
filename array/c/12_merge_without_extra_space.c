@@ -58,7 +58,7 @@ void solution_2(int *arr_1, int *arr_2, int size_1, int size_2)
         // For arr 1.
         for (i = 0; i + gap < size_1; i++)
             if (arr_1[i] > arr_1[i + gap])
-                swap(arr_1 + 1, arr_1 + i + gap);
+                swap(arr_1 + i, arr_1 + i + gap);
 
         // For arr 1 & arr 2.
         for (j = gap < size_1 ? 0 : (size_1 - gap); i < size_1 && j < size_2; i++, j++)
@@ -72,7 +72,7 @@ void solution_2(int *arr_1, int *arr_2, int size_1, int size_2)
                     swap(arr_2 + j, arr_2 + (j + gap));
 
         // Because of ceil value gap would not become 0. So when operation of gap = 1 is done break the loop.
-        if (gap == 1)
+        if (1 == gap)
             break;
         else
             gap = (int)ceil((double)gap / 2);
@@ -84,11 +84,11 @@ void main()
     // int arr_1[] = {10};
     // int arr_2[] = {2, 3};
 
-    int arr_1[] = {1, 5, 9, 10, 15, 20};
-    int arr_2[] = {2, 3, 8, 13};
+    // int arr_1[] = {1, 5, 9, 10, 15, 20};
+    // int arr_2[] = {2, 3, 8, 13};
 
-    // int arr_1[] = {3, 4, 7, 10};
-    // int arr_2[] = {1, 2, 8, 9, 12, 13};
+    int arr_1[] = {3, 4, 7, 10};
+    int arr_2[] = {1, 2, 8, 9, 12, 13};
 
     int size_1 = sizeof(arr_1) / sizeof(int);
     int size_2 = sizeof(arr_2) / sizeof(int);
