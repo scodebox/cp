@@ -104,6 +104,11 @@ The repository of most used Data Structures and Algorithm in Competitive program
 &nbsp;&nbsp;&nbsp;&#8594; _[TC: O(n log n) | SC: O(n)]_
 
 15. Next Permutation
+(
+    [C code](https://github.com/suvambasak/cp/blob/main/array/c/15_next_permutation.py) |
+    [Python](https://github.com/suvambasak/cp/blob/main/array/python3/15_next_permutation.py)
+)
+&nbsp;&nbsp;&nbsp;&#8594; _[TC: O(n) | SC: O(1)]_
 
 16. Count Inversion
 (
