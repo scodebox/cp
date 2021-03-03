@@ -146,7 +146,11 @@ The repository of most used Data Structures and Algorithm in Competitive program
 )
 &nbsp;&nbsp;&nbsp;&#8594; _[TC: O(n) | SC: O(n)]_
 
-22. Find factorial of a large number
+22. Find factorial of a large number.
+(
+    [Python](https://github.com/suvambasak/cp/blob/main/array/python3/22_factorial_large_num.py)
+)
+&nbsp;&nbsp;&nbsp;&#8594; _[TC: O(log n!)]_
 
 23. find maximum product subarray 
 
