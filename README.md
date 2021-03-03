@@ -123,6 +123,10 @@ The repository of most used Data Structures and Algorithm in Competitive program
 &nbsp;&nbsp;&nbsp;&#8594; _[TC: O(n) | SC: O(1)]_
 
 18. Find all pairs on integer array whose sum is equal to given number
+(
+    [Python](https://github.com/suvambasak/cp/blob/main/array/python3/18_pair_num_equal_input_sum.py)
+)
+&nbsp;&nbsp;&nbsp;&#8594; _[TC: O(n) | SC: O(n)]_
 
 19. Find common elements In 3 sorted arrays
 
