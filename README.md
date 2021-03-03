@@ -128,7 +128,11 @@ The repository of most used Data Structures and Algorithm in Competitive program
 )
 &nbsp;&nbsp;&nbsp;&#8594; _[TC: O(n) | SC: O(n)]_
 
-19. Find common elements In 3 sorted arrays
+19. Find common elements in 3 sorted arrays
+(
+    [Python](https://github.com/suvambasak/cp/blob/main/array/python3/19_common_elements_three_sorted_array.py)
+)
+&nbsp;&nbsp;&nbsp;&#8594; _[TC/SC: O(n1+n2+n3)]_
 
 20. Rearrange the array in alternating positive and negative items with O(1) extra space
 
