@@ -135,6 +135,10 @@ The repository of most used Data Structures and Algorithm in Competitive program
 &nbsp;&nbsp;&nbsp;&#8594; _[TC/SC: O(n1+n2+n3)]_
 
 20. Rearrange the array in alternating positive and negative items with O(1) extra space
+(
+    [Python](https://github.com/suvambasak/cp/blob/main/array/python3/20_alternating_positive_negative.py)
+)
+&nbsp;&nbsp;&nbsp;&#8594; _[TC: O(n) | SC: O(1)]_
 
 21. Find if there is any subarray with sum equal to 0
 
