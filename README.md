@@ -105,7 +105,7 @@ The repository of most used Data Structures and Algorithm in Competitive program
 
 15. Next Permutation
 (
-    [C code](https://github.com/suvambasak/cp/blob/main/array/c/15_next_permutation.py) |
+    [C code](https://github.com/suvambasak/cp/blob/main/array/c/15_next_permutation.c) |
     [Python](https://github.com/suvambasak/cp/blob/main/array/python3/15_next_permutation.py)
 )
 &nbsp;&nbsp;&nbsp;&#8594; _[TC: O(n) | SC: O(1)]_
@@ -117,6 +117,10 @@ The repository of most used Data Structures and Algorithm in Competitive program
 &nbsp;&nbsp;&nbsp;&#8594; _[TC: O(n log n) | SC: O(n)]_
 
 17. Best time to buy and Sell stock
+(
+    [Python](https://github.com/suvambasak/cp/blob/main/array/python3/17_buy_Sell_stock.py)
+)
+&nbsp;&nbsp;&nbsp;&#8594; _[TC: O(n) | SC: O(1)]_
 
 18. Find all pairs on integer array whose sum is equal to given number
 
