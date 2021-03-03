@@ -105,7 +105,7 @@ The repository of most used Data Structures and Algorithm in Competitive program
 
 15. Next Permutation
 (
-    [C code](https://github.com/suvambasak/cp/blob/main/array/c/15_next_permutation.py) |
+    [C code](https://github.com/suvambasak/cp/blob/main/array/c/15_next_permutation.c) |
     [Python](https://github.com/suvambasak/cp/blob/main/array/python3/15_next_permutation.py)
 )
 &nbsp;&nbsp;&nbsp;&#8594; _[TC: O(n) | SC: O(1)]_
@@ -117,16 +117,40 @@ The repository of most used Data Structures and Algorithm in Competitive program
 &nbsp;&nbsp;&nbsp;&#8594; _[TC: O(n log n) | SC: O(n)]_
 
 17. Best time to buy and Sell stock
+(
+    [Python](https://github.com/suvambasak/cp/blob/main/array/python3/17_buy_Sell_stock.py)
+)
+&nbsp;&nbsp;&nbsp;&#8594; _[TC: O(n) | SC: O(1)]_
 
 18. Find all pairs on integer array whose sum is equal to given number
+(
+    [Python](https://github.com/suvambasak/cp/blob/main/array/python3/18_pair_num_equal_input_sum.py)
+)
+&nbsp;&nbsp;&nbsp;&#8594; _[TC: O(n) | SC: O(n)]_
 
-19. Find common elements In 3 sorted arrays
+19. Find common elements in 3 sorted arrays
+(
+    [Python](https://github.com/suvambasak/cp/blob/main/array/python3/19_common_elements_three_sorted_array.py)
+)
+&nbsp;&nbsp;&nbsp;&#8594; _[TC/SC: O(n1+n2+n3)]_
 
 20. Rearrange the array in alternating positive and negative items with O(1) extra space
+(
+    [Python](https://github.com/suvambasak/cp/blob/main/array/python3/20_alternating_positive_negative.py)
+)
+&nbsp;&nbsp;&nbsp;&#8594; _[TC: O(n) | SC: O(1)]_
 
-21. Find if there is any subarray with sum equal to 0
+21. Find if there is any subarray with sum equal to zero.
+(
+    [Python](https://github.com/suvambasak/cp/blob/main/array/python3/21_subarray_with_sum_zero.py)
+)
+&nbsp;&nbsp;&nbsp;&#8594; _[TC: O(n) | SC: O(n)]_
 
-22. Find factorial of a large number
+22. Find factorial of a large number.
+(
+    [Python](https://github.com/suvambasak/cp/blob/main/array/python3/22_factorial_large_num.py)
+)
+&nbsp;&nbsp;&nbsp;&#8594; _[TC: O(log n!)]_
 
 23. find maximum product subarray 
 
