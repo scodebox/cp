@@ -152,11 +152,23 @@ The repository of most used Data Structures and Algorithm in Competitive program
 )
 &nbsp;&nbsp;&nbsp;&#8594; _[TC: O(log n!)]_
 
-23. find maximum product subarray 
+23. Find maximum product subarray.
+(
+    [Python](https://github.com/suvambasak/cp/blob/main/array/python3/23_max_product_subarray.py)
+)
+&nbsp;&nbsp;&nbsp;&#8594; _[TC: O(n) | SC: O(1)]_
 
-24. Find longest coinsecutive subsequence
+24. Find longest consecutive subsequence.
+(
+    [Python](https://github.com/suvambasak/cp/blob/main/array/python3/24_longest_consecutive_sequence.py)
+)
+&nbsp;&nbsp;&nbsp;&#8594; _[TC: O(n) | SC: O(n)]_
 
-25. Given an array of size n and a number k, fin all elements that appear more than " n/k " times.
+25. Given an array of size N and a number K, find all elements that appear more than (N/K) times.
+(
+    [Python](https://github.com/suvambasak/cp/blob/main/array/python3/25_elements_appear_n_by_k_times.py)
+)
+&nbsp;&nbsp;&nbsp;&#8594; _[TC: O(n) | SC: O(n)]_
 
 26. Maximum profit by buying and selling a share atmost twice
 
