@@ -152,7 +152,11 @@ The repository of most used Data Structures and Algorithm in Competitive program
 )
 &nbsp;&nbsp;&nbsp;&#8594; _[TC: O(log n!)]_
 
-23. find maximum product subarray 
+23. Find maximum product subarray.
+(
+    [Python](https://github.com/suvambasak/cp/blob/main/array/python3/23_max_product_subarray.py)
+)
+&nbsp;&nbsp;&nbsp;&#8594; _[TC: O(n) | SC: O(1)]_
 
 24. Find longest coinsecutive subsequence
 
