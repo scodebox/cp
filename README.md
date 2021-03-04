@@ -159,6 +159,10 @@ The repository of most used Data Structures and Algorithm in Competitive program
 &nbsp;&nbsp;&nbsp;&#8594; _[TC: O(n) | SC: O(1)]_
 
 24. Find longest coinsecutive subsequence
+(
+    [Python](https://github.com/suvambasak/cp/blob/main/array/python3/24_longest_consecutive_sequence.py)
+)
+&nbsp;&nbsp;&nbsp;&#8594; _[TC: O(n) | SC: O(n)]_
 
 25. Given an array of size n and a number k, fin all elements that appear more than " n/k " times.
 
