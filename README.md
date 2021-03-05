@@ -188,6 +188,11 @@ The repository of most used Data Structures and Algorithm in Competitive program
 
 34. Minimum no. of operations required to make an array palindrome
 
-35. Median of 2 sorted arrays of equal size
+35. Median of 2 sorted arrays of equal size.
+(
+    [Python](https://github.com/suvambasak/cp/blob/main/array/python3/35_median_two_sorted_arrays_equal_size.py)
+)
+&nbsp;&nbsp;&nbsp;&#8594; _[TC: O(log n)]_
+
 
 36. Median of 2 sorted arrays of different size
