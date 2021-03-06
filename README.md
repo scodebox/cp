@@ -178,7 +178,11 @@ The repository of most used Data Structures and Algorithm in Competitive program
 
 29. Trapping Rain water problem
 
-30. Chocolate Distribution problem
+30. Chocolate distribution problem.
+(
+    [Python](https://github.com/suvambasak/cp/blob/main/array/python3/30_chocolate_distribution.py)
+)
+&nbsp;&nbsp;&nbsp;&#8594; _[TC: O(n log n) | SC: O(1)]_
 
 31. Smallest Subarray with sum greater than a given value.
 (
