@@ -172,22 +172,62 @@ The repository of most used Data Structures and Algorithm in Competitive program
 
 26. Maximum profit by buying and selling a share atmost twice
 
-27. Find whether an array is a subset of another array
+27. Find whether an array is a subset of another array.
+(
+    [Python](https://github.com/suvambasak/cp/blob/main/array/python3/27_array_subset_array.py)
+)
+&nbsp;&nbsp;&nbsp;&#8594; _[TC: O(n) | SC: O(n)]_
 
-28. Find the triplet that sum to a given value
+28. Find the triplet that sum to a given value.
+(
+    [Python](https://github.com/suvambasak/cp/blob/main/array/python3/28_triplet__sum_to_given_value.py)
+)
+&nbsp;&nbsp;&nbsp;&#8594; _[TC: O(n^2) | SC: O(1)]_
 
-29. Trapping Rain water problem
+29. Trapping rain water problem.
+(
+    [Python](https://github.com/suvambasak/cp/blob/main/array/python3/29_trapping_rain_water.py)
+)
+&nbsp;&nbsp;&nbsp;&#8594; _[TC: O(n) | SC: O(1)]_
 
-30. Chocolate Distribution problem
+30. Chocolate distribution problem.
+(
+    [Python](https://github.com/suvambasak/cp/blob/main/array/python3/30_chocolate_distribution.py)
+)
+&nbsp;&nbsp;&nbsp;&#8594; _[TC: O(n log n) | SC: O(1)]_
 
-31. Smallest Subarray with sum greater than a given value
+31. Smallest Subarray with sum greater than a given value.
+(
+    [Python](https://github.com/suvambasak/cp/blob/main/array/python3/31_smallest_subarray_sum_greater_than_given_value.py)
+)
+&nbsp;&nbsp;&nbsp;&#8594; _[TC: O(n) | SC: O(1)]_
 
-32. Three way partitioning of an array around a given value
+32. Three way partitioning of an array around a given value.
+(
+    [Python](https://github.com/suvambasak/cp/blob/main/array/python3/32_three_way_partitioning.py)
+)
+&nbsp;&nbsp;&nbsp;&#8594; _[TC: O(n) | SC: O(1)]_
 
-33. Minimum swaps required bring elements less equal K together
+33. Minimum swaps required bring elements less equal K together.
+(
+    [Python](https://github.com/suvambasak/cp/blob/main/array/python3/33_min_swap_bring_together.py)
+)
+&nbsp;&nbsp;&nbsp;&#8594; _[TC: O(n) | SC: O(1)]_
 
-34. Minimum no. of operations required to make an array palindrome
+34. Minimum number of operations required to make an array palindrome.
+(
+    [Python](https://github.com/suvambasak/cp/blob/main/array/python3/34_min_operation_palindromic_array.py)
+)
+&nbsp;&nbsp;&nbsp;&#8594; _[TC: O(n) | SC: O(1)]_
 
-35. Median of 2 sorted arrays of equal size
+35. Median of two sorted arrays of equal size.
+(
+    [Python](https://github.com/suvambasak/cp/blob/main/array/python3/35_median_two_sorted_arrays_equal_size.py)
+)
+&nbsp;&nbsp;&nbsp;&#8594; _[TC: O(log n)]_
 
-36. Median of 2 sorted arrays of different size
+36. Median of two sorted arrays of different size.
+(
+    [Python](https://github.com/suvambasak/cp/blob/main/array/python3/36_median_two_sorted_arrays_diff_size.py)
+)
+&nbsp;&nbsp;&nbsp;&#8594; _[TC: O(log n) | SC: O(1)]_
