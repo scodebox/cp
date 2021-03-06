@@ -182,7 +182,11 @@ The repository of most used Data Structures and Algorithm in Competitive program
 
 31. Smallest Subarray with sum greater than a given value
 
-32. Three way partitioning of an array around a given value
+32. Three way partitioning of an array around a given value.
+(
+    [Python](https://github.com/suvambasak/cp/blob/main/array/python3/32_three_way_partitioning.py)
+)
+&nbsp;&nbsp;&nbsp;&#8594; _[TC: O(n) | SC: O(1)]_
 
 33. Minimum swaps required bring elements less equal K together.
 (
