@@ -180,7 +180,11 @@ The repository of most used Data Structures and Algorithm in Competitive program
 
 30. Chocolate Distribution problem
 
-31. Smallest Subarray with sum greater than a given value
+31. Smallest Subarray with sum greater than a given value.
+(
+    [Python](https://github.com/suvambasak/cp/blob/main/array/python3/31_smallest_subarray_sum_greater_than_given_value.py)
+)
+&nbsp;&nbsp;&nbsp;&#8594; _[TC: O(n) | SC: O(1)]_
 
 32. Three way partitioning of an array around a given value.
 (
