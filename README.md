@@ -179,7 +179,11 @@ The repository of most used Data Structures and Algorithm in Competitive program
 &nbsp;&nbsp;&nbsp;&#8594; _[TC: O(n) | SC: O(n)]_
 
 
-28. Find the triplet that sum to a given value
+28. Find the triplet that sum to a given value.
+(
+    [Python](https://github.com/suvambasak/cp/blob/main/array/python3/28_triplet__sum_to_given_value.py)
+)
+&nbsp;&nbsp;&nbsp;&#8594; _[TC: O(n^2) | SC: O(1)]_
 
 29. Trapping Rain water problem
 
