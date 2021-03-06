@@ -186,7 +186,11 @@ The repository of most used Data Structures and Algorithm in Competitive program
 
 33. Minimum swaps required bring elements less equal K together
 
-34. Minimum no. of operations required to make an array palindrome
+34. Minimum number of operations required to make an array palindrome.
+(
+    [Python](https://github.com/suvambasak/cp/blob/main/array/python3/34_min_operation_palindromic_array.py)
+)
+&nbsp;&nbsp;&nbsp;&#8594; _[TC: O(n) | SC: O(1)]_
 
 35. Median of two sorted arrays of equal size.
 (
