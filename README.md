@@ -184,7 +184,11 @@ The repository of most used Data Structures and Algorithm in Competitive program
 
 32. Three way partitioning of an array around a given value
 
-33. Minimum swaps required bring elements less equal K together
+33. Minimum swaps required bring elements less equal K together.
+(
+    [Python](https://github.com/suvambasak/cp/blob/main/array/python3/33_min_swap_bring_together.py)
+)
+&nbsp;&nbsp;&nbsp;&#8594; _[TC: O(n) | SC: O(1)]_
 
 34. Minimum number of operations required to make an array palindrome.
 (
