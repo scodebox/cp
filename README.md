@@ -172,7 +172,12 @@ The repository of most used Data Structures and Algorithm in Competitive program
 
 26. Maximum profit by buying and selling a share atmost twice
 
-27. Find whether an array is a subset of another array
+27. Find whether an array is a subset of another array.
+(
+    [Python](https://github.com/suvambasak/cp/blob/main/array/python3/27_array_subset_array.py)
+)
+&nbsp;&nbsp;&nbsp;&#8594; _[TC: O(n) | SC: O(n)]_
+
 
 28. Find the triplet that sum to a given value
 
