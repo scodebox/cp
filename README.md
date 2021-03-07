@@ -235,3 +235,26 @@ The repository of most used Data Structures and Algorithm in Competitive program
     [Python](https://github.com/suvambasak/cp/blob/main/array/python3/36_median_two_sorted_arrays_diff_size.py)
 )
 &nbsp;&nbsp;&nbsp;&#8594; _[TC: O(log n) | SC: O(1)]_
+
+----
+### **Matrix**
+----
+1. Spiral traversal on a Matrix
+
+2. Search an element in a matrix
+
+3. Find median in a row wise sorted matrix
+
+4. Find row with maximum no. of 1's
+
+5. Print elements in sorted order using row-column wise sorted matrix
+
+6. Maximum size rectangle
+
+7. Find a specific pair in matrix
+
+8. Rotate matrix by 90 degrees
+
+9. Kth smallest element in a row-cpumn wise sorted matrix
+
+10. Common elements in all rows of a given matrix
