@@ -170,7 +170,11 @@ The repository of most used Data Structures and Algorithm in Competitive program
 )
 &nbsp;&nbsp;&nbsp;&#8594; _[TC: O(n) | SC: O(n)]_
 
-26. Maximum profit by buying and selling a share atmost twice
+26. Maximum profit by buying and selling a share atmost twice.
+(
+    [Python](https://github.com/suvambasak/cp/blob/main/array/python3/26_max_profit_buy_sel_atmost_twice.py)
+)
+&nbsp;&nbsp;&nbsp;&#8594; _[TC: O(n) | SC: O(n)]_
 
 27. Find whether an array is a subset of another array.
 (
