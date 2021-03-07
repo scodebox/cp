@@ -239,7 +239,11 @@ The repository of most used Data Structures and Algorithm in Competitive program
 ----
 ### **Matrix**
 ----
-1. Spiral traversal on a Matrix
+1. Spiral traversal on a matrix.
+(
+    [Python](https://github.com/suvambasak/cp/blob/main/matrix/python3/1_spiral_traversal.py)
+)
+&nbsp;&nbsp;&nbsp;&#8594; _[TC: O(m*n) | SC: O(1)]_
 
 2. Search an element in a matrix
 
