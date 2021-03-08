@@ -263,7 +263,11 @@ The repository of most used Data Structures and Algorithm in Competitive program
 )
 &nbsp;&nbsp;&nbsp;&#8594; _[TC: O(m+n) | SC: O(1)]_
 
-5. Print elements in sorted order using row-column wise sorted matrix
+5. Print elements in sorted order using row-column wise sorted matrix.
+(
+    [Python](https://github.com/suvambasak/cp/blob/main/matrix/python3/5_sorted_print_row-column_wise_sorted_matrix.py)
+)
+&nbsp;&nbsp;&nbsp;&#8594; _[TC: O(N^2) | SC: O(1)]_
 
 6. Maximum size rectangle
 
