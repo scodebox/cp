@@ -257,7 +257,11 @@ The repository of most used Data Structures and Algorithm in Competitive program
 )
 &nbsp;&nbsp;&nbsp;&#8594; _[TC: O(m log(m*n)) | SC: O(1)]_
 
-4. Find row with maximum no. of 1's
+4. Find row with maximum number of 1's.
+(
+    [Python](https://github.com/suvambasak/cp/blob/main/matrix/python3/4_row_with_max_one.py)
+)
+&nbsp;&nbsp;&nbsp;&#8594; _[TC: O(m+n) | SC: O(1)]_
 
 5. Print elements in sorted order using row-column wise sorted matrix
 
