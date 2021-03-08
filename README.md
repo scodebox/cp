@@ -251,7 +251,11 @@ The repository of most used Data Structures and Algorithm in Competitive program
 )
 &nbsp;&nbsp;&nbsp;&#8594; _[TC: O(log(m*n)) | SC: O(1)]_
 
-3. Find median in a row wise sorted matrix
+3. Find median in a row wise sorted matrix.
+(
+    [Python](https://github.com/suvambasak/cp/blob/main/matrix/python3/3_median_row_wise_sorted_matrix.py)
+)
+&nbsp;&nbsp;&nbsp;&#8594; _[TC: O(m log(m*n)) | SC: O(1)]_
 
 4. Find row with maximum no. of 1's
 
