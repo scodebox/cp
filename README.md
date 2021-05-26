@@ -269,7 +269,11 @@ The repository of most used Data Structures and Algorithm in Competitive program
 )
 &nbsp;&nbsp;&nbsp;&#8594; _[TC: O(N^2) | SC: O(1)]_
 
-6. Maximum size rectangle
+6. Maximum size rectangle.
+(
+    [Python](https://github.com/suvambasak/cp/blob/main/matrix/python3/6_maximum_size_rectangle.py)
+)
+&nbsp;&nbsp;&nbsp;&#8594; _[TC: O(RxC) | SC: O(C)]_
 
 7. Find a specific pair in matrix
 
@@ -278,3 +282,32 @@ The repository of most used Data Structures and Algorithm in Competitive program
 9. Kth smallest element in a row-cpumn wise sorted matrix
 
 10. Common elements in all rows of a given matrix
+
+
+----
+### **Other**
+----
+1. Next larger element
+(
+    [Python](https://github.com/suvambasak/cp/blob/main/matrix/others/next_larger_element.py)
+)
+2. Next smaller element
+(
+    [Python](https://github.com/suvambasak/cp/blob/main/matrix/others/next_smaller_element.py)
+)
+3. Nearest greater left
+(
+    [Python](https://github.com/suvambasak/cp/blob/main/matrix/others/nearest_greater_left.py)
+)
+4. Nearest smaller left
+(
+    [Python](https://github.com/suvambasak/cp/blob/main/matrix/others/nearest_smaller_left.py)
+)
+5. Stock span problem
+(
+    [Python](https://github.com/suvambasak/cp/blob/main/matrix/others/stock_span_problem.py)
+)
+6. Maximum area of histogram
+(
+    [Python](https://github.com/suvambasak/cp/blob/main/matrix/others/maximum_area_histogram.py)
+)
