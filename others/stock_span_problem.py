@@ -1,25 +1,7 @@
-def is_empty(stack):
-    if len(stack):
-        return False
-    return True
+from stack import is_empty, top, push, pop
 
 
-def push(stack, item):
-    stack.append(item)
-
-
-def pop(stack):
-    if not is_empty(stack):
-        return stack.pop()
-    return None
-
-
-def top(stack):
-    if len(stack):
-        return stack[-1]
-    return None
-
-
+# with nearest greater to left
 def stock_span_problem(arr):
     stack = []
     result = []
