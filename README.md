@@ -276,6 +276,10 @@ The repository of most used Data Structures and Algorithm in Competitive program
 &nbsp;&nbsp;&nbsp;&#8594; _[TC: O(RxC) | SC: O(C)]_
 
 7. Find a specific pair in matrix
+(
+    [Python](https://github.com/suvambasak/cp/blob/main/matrix/python3/7_Find_specific_pair_matrix.py)
+)
+&nbsp;&nbsp;&nbsp;&#8594; _[TC: O(RxC) | SC: O(RxC)]_
 
 8. Rotate matrix by 90 degrees
 
