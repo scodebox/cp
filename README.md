@@ -287,9 +287,13 @@ The repository of most used Data Structures and Algorithm in Competitive program
 )
 &nbsp;&nbsp;&nbsp;&#8594; _[TC: O(N^2) | SC: O(1)]_
 
-9. Kth smallest element in a row-cpumn wise sorted matrix
+9. Kth smallest element in a row-column wise sorted matrix.
 
 10. Common elements in all rows of a given matrix
+(
+    [Python](https://github.com/suvambasak/cp/blob/main/matrix/python3/10_common_elements_in_all_rows.py)
+)
+&nbsp;&nbsp;&nbsp;&#8594; _[TC: O(RxC) | SC: O(R)]_
 
 
 ----
