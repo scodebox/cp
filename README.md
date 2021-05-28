@@ -235,3 +235,95 @@ The repository of most used Data Structures and Algorithm in Competitive program
     [Python](https://github.com/suvambasak/cp/blob/main/array/python3/36_median_two_sorted_arrays_diff_size.py)
 )
 &nbsp;&nbsp;&nbsp;&#8594; _[TC: O(log n) | SC: O(1)]_
+
+----
+### **Matrix**
+----
+1. Spiral traversal on a matrix.
+(
+    [Python](https://github.com/suvambasak/cp/blob/main/matrix/python3/1_spiral_traversal.py)
+)
+&nbsp;&nbsp;&nbsp;&#8594; _[TC: O(m*n) | SC: O(1)]_
+
+2. Search an element in a matrix.
+(
+    [Python](https://github.com/suvambasak/cp/blob/main/matrix/python3/2_search_matrix.py)
+)
+&nbsp;&nbsp;&nbsp;&#8594; _[TC: O(log(m*n)) | SC: O(1)]_
+
+3. Find median in a row wise sorted matrix.
+(
+    [Python](https://github.com/suvambasak/cp/blob/main/matrix/python3/3_median_row_wise_sorted_matrix.py)
+)
+&nbsp;&nbsp;&nbsp;&#8594; _[TC: O(m log(m*n)) | SC: O(1)]_
+
+4. Find row with maximum number of 1's.
+(
+    [Python](https://github.com/suvambasak/cp/blob/main/matrix/python3/4_row_with_max_one.py)
+)
+&nbsp;&nbsp;&nbsp;&#8594; _[TC: O(m+n) | SC: O(1)]_
+
+5. Print elements in sorted order using row-column wise sorted matrix.
+(
+    [Python](https://github.com/suvambasak/cp/blob/main/matrix/python3/5_sorted_print_row-column_wise_sorted_matrix.py)
+)
+&nbsp;&nbsp;&nbsp;&#8594; _[TC: O(N^2) | SC: O(1)]_
+
+6. Maximum size rectangle.
+(
+    [Python](https://github.com/suvambasak/cp/blob/main/matrix/python3/6_maximum_size_rectangle.py)
+)
+&nbsp;&nbsp;&nbsp;&#8594; _[TC: O(RxC) | SC: O(C)]_
+
+7. Find a specific pair in matrix.
+(
+    [Python](https://github.com/suvambasak/cp/blob/main/matrix/python3/7_Find_specific_pair_matrix.py)
+)
+&nbsp;&nbsp;&nbsp;&#8594; _[TC: O(RxC) | SC: O(RxC)]_
+
+8. Rotate matrix by 90 degree.
+(
+    [Python](https://github.com/suvambasak/cp/blob/main/matrix/python3/8_rotate_matrix.py)
+)
+&nbsp;&nbsp;&nbsp;&#8594; _[TC: O(N^2) | SC: O(1)]_
+
+9. K th smallest element in a row-column wise sorted matrix.
+(
+    [Python](https://github.com/suvambasak/cp/blob/main/matrix/python3/9_kth_smallest_element.py)
+)
+&nbsp;&nbsp;&nbsp;&#8594; _[O(N*log(N)) | SC: O(1)]_
+
+10. Common elements in all rows of a given matrix
+(
+    [Python](https://github.com/suvambasak/cp/blob/main/matrix/python3/10_common_elements_in_all_rows.py)
+)
+&nbsp;&nbsp;&nbsp;&#8594; _[TC: O(RxC) | SC: O(R)]_
+
+
+----
+### **Other**
+----
+1. Next larger element
+(
+    [Python](https://github.com/suvambasak/cp/blob/main/matrix/others/next_larger_element.py)
+)
+2. Next smaller element
+(
+    [Python](https://github.com/suvambasak/cp/blob/main/matrix/others/next_smaller_element.py)
+)
+3. Nearest greater left
+(
+    [Python](https://github.com/suvambasak/cp/blob/main/matrix/others/nearest_greater_left.py)
+)
+4. Nearest smaller left
+(
+    [Python](https://github.com/suvambasak/cp/blob/main/matrix/others/nearest_smaller_left.py)
+)
+5. Stock span problem
+(
+    [Python](https://github.com/suvambasak/cp/blob/main/matrix/others/stock_span_problem.py)
+)
+6. Maximum area of histogram
+(
+    [Python](https://github.com/suvambasak/cp/blob/main/matrix/others/maximum_area_histogram.py)
+)
