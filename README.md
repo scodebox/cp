@@ -301,6 +301,16 @@ The repository of most used Data Structures and Algorithm in Competitive program
 
 
 ----
+### **Binary Search**
+----
+1. First and last occurrence of an element.
+(
+    [Python](https://github.com/suvambasak/cp/blob/main/binary-search/python3/1_first_last_occurrence.py)
+)
+&nbsp;&nbsp;&nbsp;&#8594; _[TC: O(log(N)) | SC: O(1)]_
+
+
+----
 ### **Other**
 ----
 1. Next larger element
