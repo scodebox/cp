@@ -321,6 +321,12 @@ The repository of most used Data Structures and Algorithm in Competitive program
 )
 &nbsp;&nbsp;&nbsp;&#8594; _[TC: O(log(N)) | SC: O(1)]_
 
+4. Find an element in a rotated sorted array.
+(
+    [Python](https://github.com/suvambasak/cp/blob/main/binary-search/python3/4_find_element_rotated_sorted_array.py)
+)
+&nbsp;&nbsp;&nbsp;&#8594; _[TC: O(log(N)) | SC: O(1)]_
+
 
 ----
 ### **Other**
