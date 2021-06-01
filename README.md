@@ -339,9 +339,15 @@ The repository of most used Data Structures and Algorithm in Competitive program
 )
 &nbsp;&nbsp;&nbsp;&#8594; _[TC: O(log(N)) | SC: O(1)]_
 
-7. c
+7. Find position of an element in an infinite sorted array.
 (
     [Python](https://github.com/suvambasak/cp/blob/main/binary-search/python3/7_find_element_in_infinite_sorted_array.py)
+)
+&nbsp;&nbsp;&nbsp;&#8594; _[TC: O(log(N)) | SC: O(1)]_
+
+8. Index of first 1 in a binary sorted infinite array.
+(
+    [Python](https://github.com/suvambasak/cp/blob/main/binary-search/python3/8_index_of_first_one_in_binary_sorted_infinite_array.py)
 )
 &nbsp;&nbsp;&nbsp;&#8594; _[TC: O(log(N)) | SC: O(1)]_
 
