@@ -315,6 +315,12 @@ The repository of most used Data Structures and Algorithm in Competitive program
 )
 &nbsp;&nbsp;&nbsp;&#8594; _[TC: O(log(N)) | SC: O(1)]_
 
+3. Number of times a sorted array is rotated.
+(
+    [Python](https://github.com/suvambasak/cp/blob/main/binary-search/python3/3_number_of_times_sorted_array-rotated.py)
+)
+&nbsp;&nbsp;&nbsp;&#8594; _[TC: O(log(N)) | SC: O(1)]_
+
 
 ----
 ### **Other**
