@@ -351,7 +351,11 @@ The repository of most used Data Structures and Algorithm in Competitive program
 )
 &nbsp;&nbsp;&nbsp;&#8594; _[TC: O(log(N)) | SC: O(1)]_
 
-
+9. Minimum difference element in a sorted array.
+(
+    [Python](https://github.com/suvambasak/cp/blob/main/binary-search/python3/9_minimum_difference_element_in_sorted_array..py)
+)
+&nbsp;&nbsp;&nbsp;&#8594; _[TC: O(log(N)) | SC: O(1)]_
 
 ----
 ### **Other**
