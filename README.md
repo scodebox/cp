@@ -333,9 +333,9 @@ The repository of most used Data Structures and Algorithm in Competitive program
 )
 &nbsp;&nbsp;&nbsp;&#8594; _[TC: O(log(N)) | SC: O(1)]_
 
-6. Floor in a sorted array.
+6. Floor and ceil in a sorted array.
 (
-    [Python](https://github.com/suvambasak/cp/blob/main/binary-search/python3/6_floor_in_sorted_array.py)
+    [Python](https://github.com/suvambasak/cp/blob/main/binary-search/python3/6_floor_ceil_in_sorted_array.py)
 )
 &nbsp;&nbsp;&nbsp;&#8594; _[TC: O(log(N)) | SC: O(1)]_
 
