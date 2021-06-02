@@ -369,6 +369,11 @@ The repository of most used Data Structures and Algorithm in Competitive program
 )
 &nbsp;&nbsp;&nbsp;&#8594; _[TC: O(log(N)) | SC: O(1)]_
 
+12. Search an element in bitonic array.
+(
+    [Python](https://github.com/suvambasak/cp/blob/main/binary-search/python3/12_search_in_bitonic_array.py)
+)
+&nbsp;&nbsp;&nbsp;&#8594; _[TC: O(log(N)) | SC: O(1)]_
 
 ----
 ### **Other**
