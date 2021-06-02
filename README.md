@@ -357,6 +357,13 @@ The repository of most used Data Structures and Algorithm in Competitive program
 )
 &nbsp;&nbsp;&nbsp;&#8594; _[TC: O(log(N)) | SC: O(1)]_
 
+10. Find peak element.
+(
+    [Python](https://github.com/suvambasak/cp/blob/main/binary-search/python3/10_find_peak_element.py)
+)
+&nbsp;&nbsp;&nbsp;&#8594; _[TC: O(log(N)) | SC: O(1)]_
+
+
 ----
 ### **Other**
 ----
