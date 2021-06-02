@@ -301,6 +301,87 @@ The repository of most used Data Structures and Algorithm in Competitive program
 
 
 ----
+### **Binary Search**
+----
+1. First and last occurrence of an element.
+(
+    [Python](https://github.com/suvambasak/cp/blob/main/binary-search/python3/1_first_last_occurrence.py)
+)
+&nbsp;&nbsp;&nbsp;&#8594; _[TC: O(log(N)) | SC: O(1)]_
+
+2. Count of an element in a sorted array.
+(
+    [Python](https://github.com/suvambasak/cp/blob/main/binary-search/python3/2_count_element.py)
+)
+&nbsp;&nbsp;&nbsp;&#8594; _[TC: O(log(N)) | SC: O(1)]_
+
+3. Number of times a sorted array is rotated.
+(
+    [Python](https://github.com/suvambasak/cp/blob/main/binary-search/python3/3_number_of_times_sorted_array_rotated.py)
+)
+&nbsp;&nbsp;&nbsp;&#8594; _[TC: O(log(N)) | SC: O(1)]_
+
+4. Find an element in a rotated sorted array.
+(
+    [Python](https://github.com/suvambasak/cp/blob/main/binary-search/python3/4_find_element_rotated_sorted_array.py)
+)
+&nbsp;&nbsp;&nbsp;&#8594; _[TC: O(log(N)) | SC: O(1)]_
+
+5. Search in an almost sorted array.
+(
+    [Python](https://github.com/suvambasak/cp/blob/main/binary-search/python3/5_search_almost_sorted_array.py)
+)
+&nbsp;&nbsp;&nbsp;&#8594; _[TC: O(log(N)) | SC: O(1)]_
+
+6. Floor and ceil in a sorted array.
+(
+    [Python](https://github.com/suvambasak/cp/blob/main/binary-search/python3/6_floor_ceil_in_sorted_array.py)
+)
+&nbsp;&nbsp;&nbsp;&#8594; _[TC: O(log(N)) | SC: O(1)]_
+
+7. Find position of an element in an infinite sorted array.
+(
+    [Python](https://github.com/suvambasak/cp/blob/main/binary-search/python3/7_find_element_in_infinite_sorted_array.py)
+)
+&nbsp;&nbsp;&nbsp;&#8594; _[TC: O(log(N)) | SC: O(1)]_
+
+8. Index of first 1 in a binary sorted infinite array.
+(
+    [Python](https://github.com/suvambasak/cp/blob/main/binary-search/python3/8_index_of_first_one_in_binary_sorted_infinite_array.py)
+)
+&nbsp;&nbsp;&nbsp;&#8594; _[TC: O(log(N)) | SC: O(1)]_
+
+9. Minimum difference element in a sorted array.
+(
+    [Python](https://github.com/suvambasak/cp/blob/main/binary-search/python3/9_minimum_difference_element_in_sorted_array..py)
+)
+&nbsp;&nbsp;&nbsp;&#8594; _[TC: O(log(N)) | SC: O(1)]_
+
+10. Find peak element.
+(
+    [Python](https://github.com/suvambasak/cp/blob/main/binary-search/python3/10_find_peak_element.py)
+)
+&nbsp;&nbsp;&nbsp;&#8594; _[TC: O(log(N)) | SC: O(1)]_
+
+11. Find maximum element in bitonic array.
+(
+    [Python](https://github.com/suvambasak/cp/blob/main/binary-search/python3/11_maximum_element_bitonic_array.py)
+)
+&nbsp;&nbsp;&nbsp;&#8594; _[TC: O(log(N)) | SC: O(1)]_
+
+12. Search an element in bitonic array.
+(
+    [Python](https://github.com/suvambasak/cp/blob/main/binary-search/python3/12_search_in_bitonic_array.py)
+)
+&nbsp;&nbsp;&nbsp;&#8594; _[TC: O(log(N)) | SC: O(1)]_
+
+13. Search in row wise & column wise sorted array.
+(
+    [Python](https://github.com/suvambasak/cp/blob/main/binary-search/python3/13_search_row_col_sorted_array.py)
+)
+&nbsp;&nbsp;&nbsp;&#8594; _[TC: O(R+C) | SC: O(1)]_
+
+----
 ### **Other**
 ----
 1. Next larger element
