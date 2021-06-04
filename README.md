@@ -381,6 +381,8 @@ The repository of most used Data Structures and Algorithm in Competitive program
 )
 &nbsp;&nbsp;&nbsp;&#8594; _[TC: O(R+C) | SC: O(1)]_
 
+
+
 ----
 ### **Heap**
 ----
@@ -389,6 +391,16 @@ The repository of most used Data Structures and Algorithm in Competitive program
     [Python](https://github.com/suvambasak/cp/blob/main/heap/python3/1_kth_smallest_element.py)
 )
 &nbsp;&nbsp;&nbsp;&#8594; _[TC: O(n log k) | SC: O(k)]_
+
+
+2. Return k largest element.
+(
+    [Python](https://github.com/suvambasak/cp/blob/main/heap/python3/2_return_K_largest_elements.py)
+)
+&nbsp;&nbsp;&nbsp;&#8594; _[TC: O(n log k) | SC: O(k)]_
+
+
+
 
 ----
 ### **Other**
