@@ -382,6 +382,15 @@ The repository of most used Data Structures and Algorithm in Competitive program
 &nbsp;&nbsp;&nbsp;&#8594; _[TC: O(R+C) | SC: O(1)]_
 
 ----
+### **Heap**
+----
+1. K th smallest element.
+(
+    [Python](https://github.com/suvambasak/cp/blob/main/heap/python3/1_kth_smallest_element.py)
+)
+&nbsp;&nbsp;&nbsp;&#8594; _[TC: O(n log k) | SC: O(k)]_
+
+----
 ### **Other**
 ----
 1. Next larger element
