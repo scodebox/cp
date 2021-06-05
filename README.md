@@ -399,6 +399,11 @@ The repository of most used Data Structures and Algorithm in Competitive program
 )
 &nbsp;&nbsp;&nbsp;&#8594; _[TC: O(n log k) | SC: O(k)]_
 
+3. Sort a K sorted array.
+(
+    [Python](https://github.com/suvambasak/cp/blob/main/heap/python3/3_sort_k_sorted_array.py)
+)
+&nbsp;&nbsp;&nbsp;&#8594; _[TC: O(n log k) | SC: O(k)]_
 
 
 
