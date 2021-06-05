@@ -405,6 +405,12 @@ The repository of most used Data Structures and Algorithm in Competitive program
 )
 &nbsp;&nbsp;&nbsp;&#8594; _[TC: O(n log k) | SC: O(k)]_
 
+4. K closest numbers.
+(
+    [Python](https://github.com/suvambasak/cp/blob/main/heap/python3/4_k_closest_numbers.py)
+)
+&nbsp;&nbsp;&nbsp;&#8594; _[TC: O(n log k) | SC: O(k)]_
+
 
 
 ----
