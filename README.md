@@ -411,6 +411,11 @@ The repository of most used Data Structures and Algorithm in Competitive program
 )
 &nbsp;&nbsp;&nbsp;&#8594; _[TC: O(n log k) | SC: O(k)]_
 
+5. Top k frequent numbers.
+(
+    [Python](https://github.com/suvambasak/cp/blob/main/heap/python3/5_top_k_frequent_number.py)
+)
+&nbsp;&nbsp;&nbsp;&#8594; _[TC: O(n log k) | SC: O(n)]_
 
 
 ----
