@@ -381,6 +381,60 @@ The repository of most used Data Structures and Algorithm in Competitive program
 )
 &nbsp;&nbsp;&nbsp;&#8594; _[TC: O(R+C) | SC: O(1)]_
 
+
+
+----
+### **Heap**
+----
+1. K th smallest element.
+(
+    [Python](https://github.com/suvambasak/cp/blob/main/heap/python3/1_kth_smallest_element.py)
+)
+&nbsp;&nbsp;&nbsp;&#8594; _[TC: O(n log k) | SC: O(k)]_
+
+
+2. Return k largest element.
+(
+    [Python](https://github.com/suvambasak/cp/blob/main/heap/python3/2_return_K_largest_elements.py)
+)
+&nbsp;&nbsp;&nbsp;&#8594; _[TC: O(n log k) | SC: O(k)]_
+
+3. Sort a K sorted array.
+(
+    [Python](https://github.com/suvambasak/cp/blob/main/heap/python3/3_sort_k_sorted_array.py)
+)
+&nbsp;&nbsp;&nbsp;&#8594; _[TC: O(n log k) | SC: O(k)]_
+
+4. K closest numbers.
+(
+    [Python](https://github.com/suvambasak/cp/blob/main/heap/python3/4_k_closest_numbers.py)
+)
+&nbsp;&nbsp;&nbsp;&#8594; _[TC: O(n log k) | SC: O(k)]_
+
+5. Top k frequent numbers.
+(
+    [Python](https://github.com/suvambasak/cp/blob/main/heap/python3/5_top_k_frequent_number.py)
+)
+&nbsp;&nbsp;&nbsp;&#8594; _[TC: O(n log k) | SC: O(n)]_
+
+6. Frequency sort.
+(
+    [Python](https://github.com/suvambasak/cp/blob/main/heap/python3/6_frequency_sort.py)
+)
+&nbsp;&nbsp;&nbsp;&#8594; _[TC: O(n log n) | SC: O(n)]_
+
+7. K closest points to origin.
+(
+    [Python](https://github.com/suvambasak/cp/blob/main/heap/python3/7_k_closest_points_to_origin.py)
+)
+&nbsp;&nbsp;&nbsp;&#8594; _[TC: O(n log k) | SC: O(k)]_
+
+8. Connect n ropes with minimum cost.
+(
+    [Python](https://github.com/suvambasak/cp/blob/main/heap/python3/8_connect_n_ropes_with_minimum_cost.py)
+)
+&nbsp;&nbsp;&nbsp;&#8594; _[TC: O(n log n) | SC: O(1)]_
+
 ----
 ### **Other**
 ----
