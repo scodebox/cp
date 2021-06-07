@@ -429,6 +429,12 @@ The repository of most used Data Structures and Algorithm in Competitive program
 )
 &nbsp;&nbsp;&nbsp;&#8594; _[TC: O(n log k) | SC: O(k)]_
 
+8. Connect n ropes with minimum cost.
+(
+    [Python](https://github.com/suvambasak/cp/blob/main/heap/python3/8_connect_n_ropes_with_minimum_cost.py)
+)
+&nbsp;&nbsp;&nbsp;&#8594; _[TC: O(n log n) | SC: O(1)]_
+
 ----
 ### **Other**
 ----
