@@ -423,6 +423,11 @@ The repository of most used Data Structures and Algorithm in Competitive program
 )
 &nbsp;&nbsp;&nbsp;&#8594; _[TC: O(n log n) | SC: O(n)]_
 
+7. K closest points to origin.
+(
+    [Python](https://github.com/suvambasak/cp/blob/main/heap/python3/7_k_closest_points_to_origin.py)
+)
+&nbsp;&nbsp;&nbsp;&#8594; _[TC: O(n log k) | SC: O(k)]_
 
 ----
 ### **Other**
