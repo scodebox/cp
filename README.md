@@ -417,6 +417,12 @@ The repository of most used Data Structures and Algorithm in Competitive program
 )
 &nbsp;&nbsp;&nbsp;&#8594; _[TC: O(n log k) | SC: O(n)]_
 
+6. Frequency sort.
+(
+    [Python](https://github.com/suvambasak/cp/blob/main/heap/python3/6_frequency_sort.py)
+)
+&nbsp;&nbsp;&nbsp;&#8594; _[TC: O(n log n) | SC: O(n)]_
+
 
 ----
 ### **Other**
