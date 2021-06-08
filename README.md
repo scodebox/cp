@@ -314,6 +314,13 @@ The repository of most used Data Structures and Algorithm in Competitive program
 )
 &nbsp;&nbsp;&nbsp;&#8594; _[TC: O(N) | SC: O(1)]_
 
+3. Find duplicate characters in a string.
+(
+    [Python](https://github.com/suvambasak/cp/blob/main/string/python3/3_find_duplicate_char.py)
+)
+&nbsp;&nbsp;&nbsp;&#8594; _[TC: O(N) | SC: O(chars in str)]_
+
+
 
 ----
 ### **Binary Search**
