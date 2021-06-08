@@ -299,6 +299,15 @@ The repository of most used Data Structures and Algorithm in Competitive program
 )
 &nbsp;&nbsp;&nbsp;&#8594; _[TC: O(RxC) | SC: O(R)]_
 
+----
+### **String**
+----
+1. Reverse string.
+(
+    [Python](https://github.com/suvambasak/cp/blob/main/string/python3/1_reverse_string.py)
+)
+&nbsp;&nbsp;&nbsp;&#8594; _[TC: O(N) | SC: O(1)]_
+
 
 ----
 ### **Binary Search**
