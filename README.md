@@ -308,6 +308,12 @@ The repository of most used Data Structures and Algorithm in Competitive program
 )
 &nbsp;&nbsp;&nbsp;&#8594; _[TC: O(N) | SC: O(1)]_
 
+2. Palindrome string.
+(
+    [Python](https://github.com/suvambasak/cp/blob/main/string/python3/2_palindrome_string.py)
+)
+&nbsp;&nbsp;&nbsp;&#8594; _[TC: O(N) | SC: O(1)]_
+
 
 ----
 ### **Binary Search**
